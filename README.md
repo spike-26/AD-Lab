@@ -1,9 +1,9 @@
-# PROJECTNAME
+# Active Directory Hacking Lab
 
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This Active Directory Hacking lab project will include implementation of an AD environment (with 1 DC with 2 computers connected with it in a domain) as well as pushing logs from the DC to my own Elastic SIEM. Also, I have planned to do some attacks and try to write detection logics (in KQL and EQL) to detect AD attacks.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
